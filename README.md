@@ -1,2 +1,2 @@
 # git_skills
-git clone
+git clone test
